@@ -11,7 +11,7 @@ function Home() {
     return (
         <>
             <Header/>
-            <div homeimage>
+            <div className="homeimage">
             <img src={imagenes['img1']}  />
             </div>
             <h2>Esto es una página full Beyblade. Gracias al exito de Bakuten, Metal y Burst, a llegado al nueva generación Beyblade X con un nuevo sistema que intenta revolucionar al mundo.</h2>

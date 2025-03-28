@@ -44,6 +44,10 @@ function Producto() {
           <div className="producto-overlay-text">Lanzador Takara </div>
           <img src={imagenes["img10"]} alt="Imagen 8" className="producto-image" />
           </div>
+          <div className="producto-image-container">
+          <div className="producto-overlay-text">Lanzador Hasbro </div>
+          <img src={imagenes["img11"]} alt="Imagen 9" className="producto-image" />
+          </div>
       </div>
 
 
