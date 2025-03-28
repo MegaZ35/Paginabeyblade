@@ -1,42 +1,16 @@
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box; 
-}
-
-html, body {
-  height: 100%;
-  font-family: Arial, sans-serif; 
-  background-color: white; 
-  color: black; 
-}
-
-
-a {
-  text-decoration: none; 
-  color: inherit; 
-}
-
-ul, ol {
-  list-style: none; 
-}
-
-button {
-  background: none;
-  border: none; 
-  cursor: pointer; 
-}
-
-input, textarea {
-  border: none; 
-  outline: none; 
-  padding: 0;
-  font-family: inherit;
-}
-
-img {
-  max-width: 100%; 
-  height: auto; 
-}
+ 
+ .homeimage{
+    background-color: #05c8eb;  
+    color: #2e4f55;
+    margin: 100;
+    padding: 100;
+    font-family: Arial, sans-serif;
+  }
+  
+  .page-background {
+    background-size: cover; 
+    background-position: center;
+    min-height: 100vh;
+    text-align: center;
+    
+  }     
