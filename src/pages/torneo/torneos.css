@@ -1,0 +1,15 @@
+.image-container {
+    position: relative;
+    display: flex;              
+    justify-content: center;     
+    align-items: center;     
+    width: 106%;                 
+    height: 600px;      
+    background-color: rgb(44, 19, 88);      
+    border-color: top;     
+        
+}
+
+
+  
+  

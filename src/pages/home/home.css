@@ -1,0 +1,15 @@
+ 
+ .homeimage{
+    background-color: #05c8eb;  
+    margin: 100;
+    padding: 100;
+    font-family: Arial, sans-serif;
+  }
+  
+  .page-background {
+    background-size: cover; 
+    background-position: center;
+    min-height: 100vh;
+    text-align: center;
+    
+  }   

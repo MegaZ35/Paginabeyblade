@@ -1,0 +1,14 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+    padding: 1%;
+    width: 100vw;
+}
+
+.footer p {
+    margin: 2px 0;
+}
