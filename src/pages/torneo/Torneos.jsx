@@ -15,6 +15,17 @@ function Torneos() {
                 <img src={imagenes['img4']} alt='Imagen 1' className='imagen' />
             </div>
 
+            <h2>Tornero Master Cup es para persona de 8 - 14 años, </h2>
+            <h2>La competición se llavara acabo en uno de los paises como en España, America, Japón etc..., los ganadores de los torneos iran al mundial</h2>
+            <h2>Y comperian por ser el mejor</h2>
+            <h2>Lo mismo para senior que es apartir de 15 años los ganadores de los torneos iran al mundial Y competiran por ser el mejor</h2>
+
+            
+            <div className="image-container">   
+                <img src={imagenes['img12']} alt='Imagen 2' className='imagen' />
+            </div>
+
+
             <Footer />
 
         </>

@@ -9,6 +9,7 @@ import Beyblade6 from './img/Beyblade6.png';
 import Beyblade7 from './img/Beyblade7.png';
 import Lanzador from './img/Lanzador.png';
 import lanzador2 from './img/lanzador2.png';
+import champions from './img/Beyblade_championship.jpg';
 
 
 
@@ -23,6 +24,8 @@ export default {
     "img8": Beyblade6,
     "img9": Beyblade7,
     "img10": Lanzador,
-    "img11": lanzador2
+    "img11": lanzador2,
+    "img12": champions,
+    
 };
 
