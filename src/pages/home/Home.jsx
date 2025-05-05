@@ -14,8 +14,8 @@ function Home() {
             <div className="homeimage">
             <img src={imagenes['img1']}  />
             </div>
-            <h2>Esto es una página full Beyblade. Gracias al exito de Bakuten, Metal y Burst, a llegado al nueva generación Beyblade X con un nuevo sistema que intenta revolucionar al mundo.</h2>
-            <h2>Intenta ser un deporte que se pueda jugar en todo el mundo a diferencia de lo anteriormente visto en las anteriores generaciones.</h2>
+            <h2>This is a full Beyblade page. Thanks to the success of Bakuten, Metal, and Burst, the next generation of Beyblade X has arrived with a new system that aims to revolutionize the world.</h2>
+            <h2>It aims to be a sport that can be played all over the world, unlike what was previously seen in previous generations.</h2>
             <Footer />
 
         </>

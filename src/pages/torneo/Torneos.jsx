@@ -16,9 +16,9 @@ function Torneos() {
             </div>
 
             <h2>Tornero Master Cup es para persona de 8 - 14 años, </h2>
-            <h2>La competición se llavara acabo en uno de los paises como en España, America, Japón etc..., los ganadores de los torneos iran al mundial</h2>
-            <h2>Y comperian por ser el mejor</h2>
-            <h2>Lo mismo para senior que es apartir de 15 años los ganadores de los torneos iran al mundial Y competiran por ser el mejor</h2>
+            <h2>The competition will be held in one of the countries such as Spain, America, Japan, etc., the winners of the tournaments will go to the World Cup.</h2>
+            <h2>And they compete to be the best</h2>
+            <h2>The same for seniors, who are 15 years old and up, the winners of the tournaments will go to the World Cup and compete to be the best.</h2>
 
             
             <div className="image-container">   
